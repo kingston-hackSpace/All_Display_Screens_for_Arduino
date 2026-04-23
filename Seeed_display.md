@@ -9,7 +9,7 @@ OLEDs we have in hackSpace are small displays; they are also known as monochrome
 ### WIRING
 The OLED screen communicates via I2C protocol. You need two pins on the arduino UNO, two for data (SDA SCL), two for power(VCC GND). On an arduino UNO, the SDA port is A4 and the SCL port is A5.
 
-See [reference image here]
+See [reference image here](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/OLED_bb.png)
 
 ----
 
