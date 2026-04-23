@@ -14,4 +14,4 @@ See [tutorial here](https://docs.arduino.cc/learn/electronics/lcd-displays/)
 
 Small monochrome display. 
 
-See [tutorial here]
+See [tutorial here](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/Seeed_display.md)
