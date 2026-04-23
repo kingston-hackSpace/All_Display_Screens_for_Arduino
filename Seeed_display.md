@@ -1,4 +1,4 @@
-# Seeed SSD1306 OLED displays
+# Seeed SSD1306 OLED Display 0.96" (128 x 64 resolution)
 
 ----
 ### DESCRIPTION
@@ -34,8 +34,11 @@ See [reference image here](https://github.com/kingston-hackSpace/All_Display_Scr
 
  ### CODE AND INSTRUCTIONS
 
-A list of all the available methods for the OLED Screen can be found here...
-
-https://www.instructables.com/Arduino-and-the-SSD1306-OLED-I2C-128x64-Display/
+A list of all the available methods for the OLED Screen can be found [here](https://www.instructables.com/Arduino-and-the-SSD1306-OLED-I2C-128x64-Display/)...
 
 *Note:* The highest frame rate on an arduino UNO on full performance mode is around 7 fps.
+
+----
+### MORE TUTORIALS
+
+[OLED Display 0.96" - Circuit Python](https://learn.adafruit.com/monochrome-oled-breakouts/overview)
