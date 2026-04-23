@@ -5,6 +5,8 @@
 
 OLEDs we have in hackSpace are small displays; they are also known as monochrome displays, they are only about 1” diagonal, but very readable due to the high contrast. This display is made of 128x64 individual white OLED pixels, each one is turned on or off by the micro-controller. Because the display makes its own light, no backlight is required, allowing better energy saving. Briefly saying an OLED display is just better and modified version of and LCD display.
 
+Read more [here](https://seeeddoc.github.io/Grove-OLED_Display_0.96inch/)
+
 ----
 ### SPECIFICATIONS
 
@@ -38,7 +40,5 @@ A list of all the available methods for the OLED Screen can be found [here](http
 
 *Note:* The highest frame rate on an arduino UNO on full performance mode is around 7 fps.
 
-----
-### MORE TUTORIALS
 
-[OLED Display 0.96" - Circuit Python](https://learn.adafruit.com/monochrome-oled-breakouts/overview)
+
