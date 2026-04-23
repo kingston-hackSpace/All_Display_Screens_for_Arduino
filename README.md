@@ -10,7 +10,7 @@ Can display small text.
 See [tutorial here](https://docs.arduino.cc/learn/electronics/lcd-displays/)
 
 ----
-## Seeed SSD1306 OLED displays
+## Seeed GROVE SSD1306 OLED 0.96" (128x64 resolution) displays 
 
 Small monochrome display. 
 
