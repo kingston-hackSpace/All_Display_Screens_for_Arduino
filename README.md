@@ -10,4 +10,8 @@ Can display small text.
 See [tutorial here](https://docs.arduino.cc/learn/electronics/lcd-displays/)
 
 ----
-## 
+## Seeed SSD1306 OLED displays
+
+Small monochrome display. 
+
+See [tutorial here]
