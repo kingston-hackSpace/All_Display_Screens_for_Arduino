@@ -5,7 +5,9 @@
 ----
 ## Liquid Crystal Displays (LCD)
 
-See tutorial [here](https://docs.arduino.cc/learn/electronics/lcd-displays/)
+Can display small text.
+
+See [tutorial here](https://docs.arduino.cc/learn/electronics/lcd-displays/)
 
 ----
 ## 
