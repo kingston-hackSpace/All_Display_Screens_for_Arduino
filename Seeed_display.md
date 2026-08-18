@@ -42,7 +42,7 @@ A list of all the available methods for the OLED Screen can be found [here](http
 
  ### More tutorias:
 
-[Displaying basic text: hello world!]()
+[Displaying basic text: hello world!](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/Seeed_hello-world.ino)
 
-
+[Displaying sensor data: lux sensor example]()
 
