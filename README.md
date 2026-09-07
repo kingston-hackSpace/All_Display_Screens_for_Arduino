@@ -5,9 +5,9 @@
 ----
 ## Liquid Crystal Displays (LCD)
 
-Can display small text.
+Start with this tutorial: [The LCD Display : the basics](https://docs.arduino.cc/learn/electronics/lcd-displays/)
 
-See [tutorial here](https://docs.arduino.cc/learn/electronics/lcd-displays/)
+Checkout the following examples: [LCD Display - graphics]()
 
 ----
 ## Seeed GROVE SSD1306 OLED 0.96" (128x64 resolution) displays 
