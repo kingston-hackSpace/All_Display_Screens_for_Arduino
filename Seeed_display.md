@@ -40,14 +40,14 @@ Explore the following codes:
 
 [1 - Basic text: hello world!](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/Seeed_hello-world.ino)
 
-[2 - From Serial to the screen]
+[2 - From Serial to the screen](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/Seeed_From-Serial-to-the-Screen.ino)
 
 [3 - Displaying SENSOR data: lux sensor example](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/Seeed_lux-sensor.ino)
 
 The following codes are based on [this tutorial](https://www.instructables.com/Arduino-and-the-SSD1306-OLED-I2C-128x64-Display/)
 
-[4 - Exploring animated graphics.]()
+[4 - Exploring animated graphics](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/Seeed_Exploring-animations.ino)
 
-[5 - Playing-with-text]()
+[5 - Playing-with-text](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/Seeed_Playing-with-text.ino)
 
-[6 - POT display experiment]. You will need to add a potentiometer to A0
+[6 - POT display experiment](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/Seeed_POT-display-experiment.ino). You will need to add a potentiometer to A0
