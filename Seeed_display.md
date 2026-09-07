@@ -42,7 +42,13 @@ A list of all the available methods for the OLED Screen can be found [here](http
 
  ### More tutorias:
 
-[Displaying basic text: hello world!](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/Seeed_hello-world.ino)
+[1 - Basic text: hello world!](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/Seeed_hello-world.ino)
 
-[Displaying SENSOR data: lux sensor example](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/Seeed_lux-sensor.ino)
+[2 - From Serial to the screen]
+
+[3 - Displaying SENSOR data: lux sensor example](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/Seeed_lux-sensor.ino)
+
+[4 - Simple graphics]
+
+[5 - Intea]
 
