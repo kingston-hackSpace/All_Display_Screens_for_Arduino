@@ -36,11 +36,7 @@ See [reference image here](https://github.com/kingston-hackSpace/All_Display_Scr
 
  ### CODE AND INSTRUCTIONS
 
-A list of all the available methods for the OLED Screen can be found [here](https://www.instructables.com/Arduino-and-the-SSD1306-OLED-I2C-128x64-Display/)...
-
-----
-
- ### More tutorias:
+Explore the following codes:
 
 [1 - Basic text: hello world!](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/Seeed_hello-world.ino)
 
@@ -48,7 +44,7 @@ A list of all the available methods for the OLED Screen can be found [here](http
 
 [3 - Displaying SENSOR data: lux sensor example](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/Seeed_lux-sensor.ino)
 
-[4 - Simple graphics]
+[4 - Exploring animated graphics.]() Learn more about this code [here](https://www.instructables.com/Arduino-and-the-SSD1306-OLED-I2C-128x64-Display/)
 
 [5 - Intea]
 
