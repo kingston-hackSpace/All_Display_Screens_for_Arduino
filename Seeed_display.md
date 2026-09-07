@@ -44,7 +44,10 @@ Explore the following codes:
 
 [3 - Displaying SENSOR data: lux sensor example](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/Seeed_lux-sensor.ino)
 
-[4 - Exploring animated graphics.]() Learn more about this code [here](https://www.instructables.com/Arduino-and-the-SSD1306-OLED-I2C-128x64-Display/)
+The following codes are based on [this tutorial](https://www.instructables.com/Arduino-and-the-SSD1306-OLED-I2C-128x64-Display/)
 
-[5 - Intea]
+[4 - Exploring animated graphics.]()
 
+[5 - Playing-with-text]()
+
+[6 - POT display experiment]. You will need to add a potentiometer to A0
