@@ -23,7 +23,15 @@ When you unplug the board, it remains displaying the latest image. This is becau
 
 ## Which micro-controller should I use?
 
-E-paper panels vary a lot between manufacturers (even ones using the "same" controller chip). Each panel has its own timing sequence and voltage profile tuned to how quickly and cleanly that specific batch of ink particles move. That's why the code needs an exact matching constant like ThinkInk_213_Mono_GDEY0213B74 — using the wrong one (even a very similarly-named one) sends the panel instructions tuned for slightly different physical ink, which is exactly what caused the glitchy noise you saw earlier.
+Adafruit has developed a microcontroller designed specifically to program e-paper panels, this is the Adafruit Feather RP2040 ThinkInk. It allows us to connect the e-paper directly to the board.
+Note: You could use an Arduino or ESP32 board, but you will need an additional breakout
+
+
+**Driver**
+E-paper panels vary a lot between manufacturers (even ones using the "same" controller chip). Each panel has its own timing sequence and voltage profile tuned to how quickly and cleanly that specific batch of ink particles move. That's why your need to select a DRIVER that is suitable to your e-paper. This will be part of your code.
+
+
+— using the wrong one (even a very similarly-named one) sends the panel instructions tuned for slightly different physical ink, which is exactly what caused the glitchy noise you saw earlier.
 
 
 ----
