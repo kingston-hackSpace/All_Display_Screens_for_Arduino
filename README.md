@@ -13,3 +13,9 @@ Checkout the following examples: [LCD Display - graphics](https://github.com/kin
 ## Seeed GROVE SSD1306 OLED 0.96" (128x64 resolution) displays 
 
 [SEEED OLED tutorial](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/Seeed_display.md)
+
+
+----
+## Adafruit Feather RP2040 ThinkInk + E-PAPER
+
+[RP2050 ThinkInk E-PAPER tutorial]()
