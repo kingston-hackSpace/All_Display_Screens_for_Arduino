@@ -18,4 +18,4 @@ Checkout the following examples: [LCD Display - graphics](https://github.com/kin
 ----
 ## Adafruit Feather RP2040 ThinkInk + E-PAPER
 
-[RP2050 ThinkInk E-PAPER tutorial]()
+[RP2050 ThinkInk E-PAPER tutorial](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/RP2040_ThinkInk_E-PAPER.md)
