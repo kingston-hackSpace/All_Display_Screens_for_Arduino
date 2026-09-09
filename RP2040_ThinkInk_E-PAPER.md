@@ -7,7 +7,7 @@ BOARD: [Adafruit Feather RP2040 ThinkInk](https://learn.adafruit.com/adafruit-rp
 
 E-PAPER PANEL: [2.13" 250x122 Monochrome or Gray eInk / ePaper - Bare Display - SSD1680Z Chip](https://learn.adafruit.com/bare-e-ink-displays-crash-course/2-13-250x122-monochrome-or-gray-eink-ssd1680z)
 
-**Driver** that you will use in your code:
+DRIVER:
 
     // 2.13" Monochrome displays with 250x122 pixels and SSD1680Z chipset
     ThinkInk_213_Mono_GDEY0213B74 display(EPD_DC, EPD_RESET, EPD_CS, SRAM_CS, EPD_BUSY, EPD_SPI);
