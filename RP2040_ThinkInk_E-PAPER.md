@@ -43,3 +43,5 @@ Note: You could use an Arduino or ESP32 board, but you will need an additional b
 
 ----
 ## CODE AND INSTRUCTIONS
+
+1. Set up your board. Follow instructions [here]
