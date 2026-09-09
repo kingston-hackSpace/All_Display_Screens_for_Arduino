@@ -3,9 +3,9 @@
 ## IMPORTANT
 In this tutorial we will use:
 
-[Adafruit Feather RP2040 ThinkInk](https://learn.adafruit.com/adafruit-rp2040-feather-thinkink/overview)
+BOARD: [Adafruit Feather RP2040 ThinkInk](https://learn.adafruit.com/adafruit-rp2040-feather-thinkink/overview)
 
-[2.13" 250x122 Monochrome or Gray eInk / ePaper - Bare Display - SSD1680Z Chip](https://learn.adafruit.com/bare-e-ink-displays-crash-course/2-13-250x122-monochrome-or-gray-eink-ssd1680z)
+E-PAPER PANEL: [2.13" 250x122 Monochrome or Gray eInk / ePaper - Bare Display - SSD1680Z Chip](https://learn.adafruit.com/bare-e-ink-displays-crash-course/2-13-250x122-monochrome-or-gray-eink-ssd1680z)
 
 **Driver** that you will use in your code:
 
