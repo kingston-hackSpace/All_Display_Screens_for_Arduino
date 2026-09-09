@@ -63,7 +63,27 @@ Our E-paper can display images, HOWEVER, since it's a monochrome panel (only pur
 
 **Converting images to 1-bit bitmaps**
 
-1. 
+1. Download [this .jpg image of a flor](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/flower.jpg). Find the download button at the top right of the page. *Note: use this image only to follow the tutorial. Once you have understood the steps, you will be able to use your own image*. 
+
+2. Open the following link: [image2cpp](https://javl.github.io/image2cpp/) and follow the steps:
+
+   1 - **Select file** > Click on "Choose files" and select the image youo download in the previous step.
+
+   2 - **Image settings**
+
+           > Image Scaling: > stretch to fit canvas.
+
+            > Canvas size: 250 x 122
+
+   (everything else remains the same)
+
+3. Scroll down and click on *generate code*. You will see a bunch of numbers, that is your image converted into a bitmap. 
+
+4. To simplify the process, download [this code](), which already has the image embeded on it. Upload it to your board, the e-paper should display the flower image now. 
+
+5. To replace the image with your own, you will need to identify the follow:
+
+   
 
 ----
 ## EXTRAS
