@@ -57,7 +57,7 @@ Note: You could use an Arduino or ESP32 board, but you will need an additional b
 
 Our E-paper can display images, HOWEVER, since it's a monochrome panel (only pure black or white, no shades of gray), any image needs to be converted to a 1-bit black-and-white bitmap before it can be shown. Photos or color images need to go through a conversion step first, see below. 
 
-1. Before converting an image to a bitmap, upload [this code] to your board. You should see a heart drawn at the top left og the panel. Look at the code to explore what is going on. 
+1. Before converting an image to a bitmap, upload [this code](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/E-PAPER_test-heart.ino) to your board. You should see a heart drawn at the top left og the panel. Look at the code to explore what is going on. 
 
 2. Now, instead of the heart, you can draw an image on the screen. Follow the steps bellow to convert a .jpg image to an bitmap. 
 
