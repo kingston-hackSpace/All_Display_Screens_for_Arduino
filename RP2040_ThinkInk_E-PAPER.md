@@ -79,9 +79,9 @@ Our E-paper can display images, HOWEVER, since it's a monochrome panel (only pur
 
 3. Scroll down and click on *generate code*. You will see a bunch of numbers, that is your image converted into a bitmap. 
 
-4. To simplify the process, download [this code](), which already has the image embeded on it. Upload it to your board, the e-paper should display the flower image now. 
+4. To simplify the process, download [this code](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/E-PAPER_image-flower.ino), which already has the image embeded on it. Upload it to your board, the e-paper should display the flower image now. 
 
-5. To replace the image with your own, you will need to identify the follow:
+5. Before you try your own image, open and look the code for the heart and the flower in parallel. Try to understand what changed from one code to the other. This will help you understand what you need to change to set up your image. Ask a technician for further help. 
 
    
 
