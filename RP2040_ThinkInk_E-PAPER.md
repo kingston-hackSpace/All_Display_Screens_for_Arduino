@@ -50,4 +50,11 @@ Note: You could use an Arduino or ESP32 board, but you will need an additional b
 
 3. Install the following library : **Adafruit EPD by Adafruit**. If you need help installing the library, open the following link, scroll down and follow [this Arduino Library instructions](https://learn.adafruit.com/adafruit-rp2040-feather-thinkink/eink-example-2).
 
-4. 
+4. Upload this code to your board. The panel should display an animation.
+
+5. 
+
+----
+## EXTRAS
+
+Find the library package here: https://github.com/adafruit/Adafruit_EPD 
