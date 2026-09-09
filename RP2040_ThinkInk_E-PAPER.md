@@ -53,6 +53,15 @@ Note: You could use an Arduino or ESP32 board, but you will need an additional b
 4. Upload [this code](https://github.com/kingston-hackSpace/All_Display_Screens_for_Arduino/blob/main/E-Paper_test.ino) to your board. The panel should display an animation.
 
 ----
+## IMAGES
+
+Our E-paper can display images, HOWEVER, since it's a monochrome panel (only pure black or white, no shades of gray), any image needs to be converted to a 1-bit black-and-white bitmap before it can be shown. Photos or color images need to go through a conversion step first, see below. 
+
+**Converting images to 1-bit bitmaps**
+
+1. 
+
+----
 ## EXTRAS
 
 Find the library package here: https://github.com/adafruit/Adafruit_EPD 
