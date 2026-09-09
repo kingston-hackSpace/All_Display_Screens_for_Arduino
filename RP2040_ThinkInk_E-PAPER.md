@@ -44,4 +44,8 @@ Note: You could use an Arduino or ESP32 board, but you will need an additional b
 ----
 ## CODE AND INSTRUCTIONS
 
-1. Set up your board. Follow instructions [here]
+1. Start by setting up the ThinkInk board for Arduino IDE. Follow the instructions [here](https://learn.adafruit.com/adafruit-rp2040-feather-thinkink/arduino-ide-setup)
+
+2. Test that the Arduino IDE has been able to stablish communication with the board. To do this, [load the Blink Sketch, as explained here](https://learn.adafruit.com/adafruit-rp2040-feather-thinkink/arduino-usage)
+
+3. Install the following library : **Adafruit EPD by Adafruit**. If you need help installing the library, open the following link, scroll down and follow [this Arduino Library instructions](https://learn.adafruit.com/adafruit-rp2040-feather-thinkink/eink-example-2)
